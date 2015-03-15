@@ -1,7 +1,0 @@
-F:\Projects\TestTasks\XRMVersionControl\DataAccessApi\bin\Debug\DataAccessApi.dll
-F:\Projects\TestTasks\XRMVersionControl\DataAccessApi\bin\Debug\DataAccessApi.pdb
-F:\Projects\TestTasks\XRMVersionControl\DataAccessApi\obj\Debug\DataAccessApi.csprojResolveAssemblyReference.cache
-F:\Projects\TestTasks\XRMVersionControl\DataAccessApi\obj\Debug\DataAccessApi.dll
-F:\Projects\TestTasks\XRMVersionControl\DataAccessApi\obj\Debug\DataAccessApi.pdb
-F:\Projects\TestTasks\XRMVersionControl\DataAccessApi\bin\Debug\DomainModel.dll
-F:\Projects\TestTasks\XRMVersionControl\DataAccessApi\bin\Debug\DomainModel.pdb

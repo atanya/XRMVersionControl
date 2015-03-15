@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassWithPrivateVersionedMethod.cs" />
     <Compile Include="UnversionedClass.cs" />
     <Compile Include="VersionedClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

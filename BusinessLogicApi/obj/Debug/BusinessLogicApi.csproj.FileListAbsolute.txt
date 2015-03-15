@@ -1,7 +1,0 @@
-F:\Projects\TestTasks\XRMVersionControl\BusinessLogicApi\bin\Debug\BusinessLogicApi.dll
-F:\Projects\TestTasks\XRMVersionControl\BusinessLogicApi\bin\Debug\BusinessLogicApi.pdb
-F:\Projects\TestTasks\XRMVersionControl\BusinessLogicApi\bin\Debug\DomainModel.dll
-F:\Projects\TestTasks\XRMVersionControl\BusinessLogicApi\bin\Debug\DomainModel.pdb
-F:\Projects\TestTasks\XRMVersionControl\BusinessLogicApi\obj\Debug\BusinessLogicApi.csprojResolveAssemblyReference.cache
-F:\Projects\TestTasks\XRMVersionControl\BusinessLogicApi\obj\Debug\BusinessLogicApi.dll
-F:\Projects\TestTasks\XRMVersionControl\BusinessLogicApi\obj\Debug\BusinessLogicApi.pdb

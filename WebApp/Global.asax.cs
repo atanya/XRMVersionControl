@@ -13,7 +13,7 @@ namespace WebApp
     // visit http://go.microsoft.com/?LinkId=9394801
     public class MvcApplication : System.Web.HttpApplication
     {
-        private static XRMVersionControlContainer _container;
+        private XRMVersionControlContainer _container;
 
         protected void Application_Start()
         {

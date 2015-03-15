@@ -18,7 +18,7 @@ namespace DataAccess
         public List<VersionControlRecord> Load(string assemblyName)
         {
             return DataContext.VersionControlRecords
-                .Where(record=> record.AssemblyName.ToLower().Equals(assemblyName.ToLower()))
+                .Where(record=> record.AssemblyName.Equals(assemblyName))
                 .OrderByDescending(record=> record.Date).ToList();
         }
     }

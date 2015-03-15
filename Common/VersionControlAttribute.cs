@@ -2,6 +2,7 @@
 
 namespace Common
 {
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method)]
     public class VersionControlAttribute: Attribute
     {
         public string Author { get; private set; }

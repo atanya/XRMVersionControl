@@ -1,4 +1,0 @@
-F:\Projects\TestTasks\XRMVersionControl\Common\bin\Debug\Common.dll
-F:\Projects\TestTasks\XRMVersionControl\Common\bin\Debug\Common.pdb
-F:\Projects\TestTasks\XRMVersionControl\Common\obj\Debug\Common.dll
-F:\Projects\TestTasks\XRMVersionControl\Common\obj\Debug\Common.pdb

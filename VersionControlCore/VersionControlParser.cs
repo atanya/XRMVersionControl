@@ -16,7 +16,7 @@ namespace VersionControlCore
             var result = new List<VersionControlRecord>();
 
             var buffer = new byte[stream.Length];
-            stream.Read(buffer, 0, int.MaxValue);
+            stream.Read(buffer, 0, buffer.Length);
             var assembly = Assembly.Load(buffer);
 
             var types = assembly.GetTypes();
@@ -24,7 +24,12 @@ namespace VersionControlCore
             {
                 result.AddRange(SelectAttributes(type, assemblyName, type.Namespace, type.Name));
 
-                var methods = type.GetMethods(BindingFlags.DeclaredOnly | BindingFlags.Public | BindingFlags.Instance);
+                var methods = type.GetMethods(
+                    BindingFlags.DeclaredOnly 
+                    |BindingFlags.Public 
+                    | BindingFlags.NonPublic 
+                    | BindingFlags.Instance 
+                    | BindingFlags.Static);
                 foreach (var method in methods)
                 {
                     result.AddRange(SelectAttributes(method, assemblyName, type.Namespace, type.Name, method.Name));

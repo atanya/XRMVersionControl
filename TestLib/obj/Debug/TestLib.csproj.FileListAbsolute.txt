@@ -1,7 +1,0 @@
-F:\Projects\TestTasks\XRMVersionControl\TestLib\bin\Debug\TestLib.dll
-F:\Projects\TestTasks\XRMVersionControl\TestLib\bin\Debug\TestLib.pdb
-F:\Projects\TestTasks\XRMVersionControl\TestLib\bin\Debug\Common.dll
-F:\Projects\TestTasks\XRMVersionControl\TestLib\bin\Debug\Common.pdb
-F:\Projects\TestTasks\XRMVersionControl\TestLib\obj\Debug\TestLib.csprojResolveAssemblyReference.cache
-F:\Projects\TestTasks\XRMVersionControl\TestLib\obj\Debug\TestLib.dll
-F:\Projects\TestTasks\XRMVersionControl\TestLib\obj\Debug\TestLib.pdb

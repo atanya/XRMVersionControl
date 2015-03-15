@@ -29,10 +29,6 @@ namespace WebApp.Controllers
             {
                 return View("Error", (object)@"Uploaded file is empty or is not *.dll");
             }
-            if (file.ContentLength >= int.MaxValue)
-            {
-                return View("Error", (object)@"Your assembly is too big");
-            }
             var records = VersionControlService.Save(file.InputStream, file.FileName);
             var model = new VersioningHistoryViewModel
             {

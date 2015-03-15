@@ -21,7 +21,7 @@ namespace Container
             Database.SetInitializer<DataContext>(new TestDbInitializer());
 
             var builder = new ContainerBuilder();
-            builder.RegisterInstance(this).AsSelf();
+
             builder.RegisterControllers(AppDomain.CurrentDomain.GetAssemblies())
                 .PropertiesAutowired()
                 .InstancePerHttpRequest();
