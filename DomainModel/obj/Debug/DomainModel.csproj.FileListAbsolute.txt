@@ -1,0 +1,12 @@
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\DomainModel.dll
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\DomainModel.pdb
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\obj\Debug\DomainModel.dll
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\obj\Debug\DomainModel.pdb
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\Common.dll
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\Common.pdb
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\DomainModel.dll.config
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\EntityFramework.dll
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\EntityFramework.xml
+F:\Projects\TestTasks\XRMVersionControl\DomainModel\bin\Debug\EntityFramework.SqlServer.xml

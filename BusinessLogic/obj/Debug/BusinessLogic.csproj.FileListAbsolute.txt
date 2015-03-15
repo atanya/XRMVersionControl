@@ -1,0 +1,13 @@
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\BusinessLogicApi.dll
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\DomainModel.dll
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\VersionControlCoreApi.dll
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\BusinessLogicApi.pdb
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\DomainModel.pdb
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\VersionControlCoreApi.pdb
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\DataAccessApi.dll
+F:\Projects\TestTasks\XRMVersionControl\BusinessLogic\bin\Debug\DataAccessApi.pdb

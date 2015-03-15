@@ -1,0 +1,9 @@
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\bin\Debug\VersionControlCoreApi.dll
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\bin\Debug\VersionControlCoreApi.pdb
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\bin\Debug\DomainModel.dll
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\bin\Debug\DomainModel.pdb
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\obj\Debug\VersionControlCoreApi.csprojResolveAssemblyReference.cache
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\obj\Debug\VersionControlCoreApi.dll
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\obj\Debug\VersionControlCoreApi.pdb
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\bin\Debug\Common.dll
+F:\Projects\TestTasks\XRMVersionControl\VersionControlCoreApi\bin\Debug\Common.pdb

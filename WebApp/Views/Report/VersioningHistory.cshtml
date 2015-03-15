@@ -1,0 +1,67 @@
+﻿@{
+    Layout = null;
+}
+@model WebApp.Models.VersioningHistoryViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VersioningHistory</title> 
+    <link type="text/css" href="~/Content/Styles/Custom.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h1>Versioning History Report</h1>
+        <h2>generated for @Model.AssemblyName</h2>
+
+        @*I know table layout is not a good solution, but I've used it here just for examle*@
+        <table id="versioningHistoryTable">
+            <tr>
+                <th>
+                    <strong>Date</strong>
+                </th>
+                <th>
+                    <strong>User</strong>
+                </th>
+                <th>
+                    <strong>Namespace</strong>
+                </th>
+                <th>
+                    <strong>Class</strong>
+                </th>
+                <th>
+                    <strong>Method</strong>
+                </th>
+                <th>
+                    <strong>Comment</strong>
+                </th>
+            </tr>
+            @foreach (var versionControlRecord in Model.Records)
+            {
+                <tr>
+                    <td>
+                        <span>@versionControlRecord.Date</span>
+                    </td>
+                    <td>
+                        <span>@versionControlRecord.UserName</span>
+                    </td>
+                    <td>
+                        <span>@versionControlRecord.Namespace</span>
+                    </td>
+                    <td>
+                        <span>@versionControlRecord.ClassName</span>
+                    </td>
+                    <td>
+                        <span>@versionControlRecord.MethodName</span>
+                    </td>
+                    <td>
+                        <span>@versionControlRecord.Comment</span>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>
