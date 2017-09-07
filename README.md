@@ -1,7 +1,7 @@
 # XRMVersionControl
 test task for XRM
 
-dll's version control for the guys who are not awaire of existing version control systems. Changed classes are decorated with a special attribute to fix the author, change's target and other information.
+dll's version control for the guys who are not aware of existing version control systems. Changed classes are decorated with a special attribute to fix the author, change's target and other information.
 
 <a href="http://xrm.ru/job/test_task/">Тестовое задание №2 для "Экстрим"</a>
 
