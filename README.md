@@ -1,7 +1,14 @@
 # XRMVersionControl
 test task for XRM
 
+dll's version control for the guys who are not awaire of existing version control systems. Changed classes are decorated with a special attribute to fix the author, change's target and other information.
+
 <a href="http://xrm.ru/job/test_task/">Тестовое задание №2 для "Экстрим"</a>
+
+Тестовое задание №2
+
+Компания «Велосипеды и колеса» разработала некоторое приложение.
+Менеджер проекта желает иметь возможность отслеживать динамику изменений, вносимых в исходный код данного приложения. К сожалению, менеджер не знал про существование  систем учета версий. Было принято решение: при внесении изменения в исходный код специальным образом аннотировать изменяемый класс или метод  для фиксации автора вносимых изменений, даты внесения изменений и причины внесения изменений.
 
 Допущения и ограничения:
 
